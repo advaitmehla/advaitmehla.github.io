@@ -21,8 +21,8 @@ author: Advait Mehla
 
 navbar-links:
   aaaaaaaa:
-    About Me: "aboutme"
-    aaaaaaaaaaaaaaaa: "/assets/CV.pdf"
+    - About Me: "aboutme"
+    - aaaaaaaaaaaaaaaa: "/assets/CV.pdf"
   CV: "/assets/CV.pdf"
   Gallery: "https://advaitmehla.github.io"
 
