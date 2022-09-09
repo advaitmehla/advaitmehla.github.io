@@ -20,9 +20,7 @@ author: Advait Mehla
 ###############################################
 
 navbar-links:
-  aaaaaaaa:
-    - About Me: "aboutme"
-    - aaaaaaaaaaaaaaaa: "/assets/CV.pdf"
+  About Me: "aboutme"
   CV: "/assets/CV.pdf"
   Gallery: "https://advaitmehla.github.io"
 
