@@ -6,12 +6,13 @@ classes:
     - dark-theme
 header:
   image: /assets/images/mwcore2.jpg
+permalink: /
 ---
 
 ## Hi!
-I'm Advait Mehla, an Engineering Physics student from IIT Bombay, and you have found my website. 
+I'm Advait Mehla, an Engineering Physics undegrad from IIT Bombay, and you have discovered my website. 
 
-I'm an amateur astrophotographer who loves the night sky. My interests include astrophysics, high energy physics and instrumentation. You can find out more about me here, and check out some of my images here.
+I'm an amateur astrophotographer who loves the night sky. My interests include astrophysics, high energy physics and instrumentation. You can find out more [about me here](/about), and check out some of my images [here](/gallery).
 
 <!-- ---
 layout: splash

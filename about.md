@@ -1,7 +1,12 @@
 ---
-permalink: /about/
-title: "About"
+title: "About Me"
 layout: splash
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-toc: true
+classes: 
+    - landing
+    - dark-theme
+header:
+  image: /assets/images/mwcore2.jpg
+permalink: /about/
 ---
+
+## About Me
