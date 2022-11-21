@@ -5,7 +5,7 @@ classes:
     - landing
     - dark-theme
 header:
-  image: /assets/images/mwcore2.jpg
+  image: /assets/images/home.jpeg
 permalink: /
 ---
 
