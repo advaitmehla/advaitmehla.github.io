@@ -11,6 +11,7 @@ permalink: /about/
 ---
 
 ## About Me
+I'm an Engineering Physics student currently finding my exact area of interest. I'm quite interested in space technology and the instrumentation side of astrophysics, high energy physics. I also like electronics.
 
 On rare Mumbai clear nights, you will most likely find me stargazing or trying to photograph an interesting deep sky object. I'm extremely passionate about astrophotography and astronomy in general, and try to share my love for these with others. I'm the manager of [Krittika](https://itc.gymkhana.iitb.ac.in/krittika), the astronomy club of IIT Bombay, where I attempt to do this with my team.
 

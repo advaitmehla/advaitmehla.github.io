@@ -47,7 +47,7 @@ gallery:
     title: "The Pleiades star cluster shot through the Krittika astrophotography rig"
   - url: /assets/images/gallery/jupiter.jpeg
     image_path: /assets/images/gallery/jupiter.jpeg
-    title: "Jupiter through the Krittika 8-inch dobsonian"
+    title: "Jupiter and Europa through the Krittika 8-inch dobsonian"
   - url: /assets/images/gallery/m51.png
     image_path: /assets/images/gallery/m51.png
     title: "The Whirlpool galaxy imaged using the GROWTH-India telescope"
@@ -55,7 +55,7 @@ gallery:
 ---
 ## My Gallery
 
-Here is a small collection of some of my astrophotographs. If you are interested in having any of these up on your wall, you can contact me for prints.
+Here is a small collection of some of my astrophotographs. I regularly post on [Instagram](https://www.instagram.com/advaitmehla/){:target="_blank" rel="noopener"}. If you'd like to have any of my images up on a wall, you can contact me.
 {% include gallery %}
 
 
