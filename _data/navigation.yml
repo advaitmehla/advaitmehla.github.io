@@ -2,7 +2,7 @@
 main:
   - title: "About Me"
     url: about
-  - title: "Gallery"
+  - title: "Astrophotography"
     url: /gallery/
   - title: "CV"
     url: /assets/CV.pdf

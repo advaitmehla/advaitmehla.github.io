@@ -11,7 +11,7 @@ permalink: /about/
 ---
 
 ## About Me
-I'm an Engineering Physics undergraduate interested in the instrumentation side of space technology, astrophysics as well as high energy physics. I am currently working on the upcoming space telescope mission, [Daksha](https://www.dakshasat.in/){:target="_blank" rel="noopener"}.
+I'm an Engineering Physics undergraduate interested in the instrumentation side of astrophysics as well as space technology. I am currently working on the upcoming space telescope mission, [Daksha](https://www.dakshasat.in/){:target="_blank" rel="noopener"}. I have previously worked at the LIGO 40m lab at Caltech in the summer of 2023.
 
 On rare Mumbai clear nights, you will most likely find me stargazing or trying to photograph an interesting deep sky object. I'm extremely passionate about astrophotography and astronomy in general, and try to share my love for these with others. I'm the manager of [Krittika](https://krittikaiitb.github.io/){:target="_blank" rel="noopener"}, the astronomy club of IIT Bombay, where I attempt to do this with my team.
 
