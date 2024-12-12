@@ -48,6 +48,9 @@ gallery:
   - url: /assets/images/gallery/jupiter.jpeg
     image_path: /assets/images/gallery/jupiter.jpeg
     title: "Jupiter and Europa through the Krittika 8-inch dobsonian"
+  - url: /assets/images/gallery/forpix.jpg
+    image_path: /assets/images/gallery/forpix.jpg
+    title: "Core of the Andromeda galaxy imaged using the GROWTH-India telescope"
   - url: /assets/images/gallery/m51.png
     image_path: /assets/images/gallery/m51.png
     title: "The Whirlpool galaxy imaged using the GROWTH-India telescope"
