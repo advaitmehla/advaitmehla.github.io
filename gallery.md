@@ -58,7 +58,7 @@ gallery:
 ---
 ## My Gallery
 
-Here is a small collection of some of my astrophotographs. I regularly post on [Instagram](https://www.instagram.com/advaitmehla/){:target="_blank" rel="noopener"}. If you'd like to have any of my images up on a wall, you can contact me.
+Here is a small collection of some of my photos of space. I regularly post on [Instagram](https://www.instagram.com/advaitmehla/){:target="_blank" rel="noopener"}. Feel free to contact me if you'd like a wallpaper or print version of any of my images.
 {% include gallery %}
 
 
