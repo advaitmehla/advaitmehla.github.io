@@ -14,7 +14,7 @@ permalink: /projects/
 
 Here is a collection of some research projects that I have worked on over the years.
 
-### Oxygen isotopic ratios of Hydrogen-deficient Carbon (HdC) stars ([Available on arXiv](https://arxiv.org/abs/2412.03664){:target="_blank" rel="noopener"})
+### Oxygen isotopic ratios of Hydrogen-deficient Carbon (HdC) stars ([Available on arXiv](https://arxiv.org/abs/2412.03664){:target="_blank" rel="noopener"}, [GitHub](https://github.com/advaitmehla/HdC-high-res))
 Guides: Prof. Mansi Kasliwal (Caltech), Dr. Patrick Tisserand (Institut d'Astrophysique de Paris)
 
 HdC stars are a rare class of supergiants that are hydrogen-deficient and carbon-rich. They are believed to be the merger products of a binary system consisting of CO and He white dwarfs, which leads to the formation of a star with anomalous abundances. HdC stars are further divided into two sub-classes -- the R Coronae Borealis (RCB) stars and dustless HdC (dLHdC) stars. While the former group is well known for its extreme variability characterized by sudden, random declines of upto 9 magnitudes caused by dust formation episodes, the latter shows no such variability. 
