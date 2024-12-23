@@ -147,6 +147,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/advaitmehla/"
+    - label: "Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.ca/citations?user=9cOF0AoAAAAJ&hl=en"
 
 
 
